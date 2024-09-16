@@ -1,4 +1,4 @@
-# BoardSummoner
+# Hand Tracking Sensor
 
 ## Server
 
